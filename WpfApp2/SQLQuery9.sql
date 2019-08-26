@@ -1,0 +1,2 @@
+﻿
+SELECT CONCAT(APPOINTMENT_ID,  Patient_Id) ,APPOINTMENT_ID,Patient_Id FROM Appointment

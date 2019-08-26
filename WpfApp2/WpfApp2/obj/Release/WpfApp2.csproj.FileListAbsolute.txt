@@ -1,0 +1,14 @@
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\MainWindow.g.cs
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\App.g.cs
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2_MarkupCompile.cache
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2_MarkupCompile.lref
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\bin\Release\WpfApp2.exe.config
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\bin\Release\WpfApp2.exe
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\bin\Release\WpfApp2.pdb
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\MainWindow.baml
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.g.resources
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.Properties.Resources.resources
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.csproj.GenerateResource.cache
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.exe
+C:\Saranya\ArchiveUSBDrive\Wsmp19Nov2018-21-47\WpfApp2\WpfApp2\obj\Release\WpfApp2.pdb
